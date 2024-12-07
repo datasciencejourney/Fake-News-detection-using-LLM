@@ -1,7 +1,7 @@
 # Fake-News-detection-using-LLM
 This repository contains an AI-driven solution to combat misinformation by detecting fake news using Large Language Models (LLMs). By leveraging state-of-the-art natural language processing (NLP) techniques, this project classifies news articles as real or fake. It serves as a robust tool to analyze and assess the credibility of information in today's digital age.
 
-Table of Contents
+# Table of Contents
 Features
 Installation
 Dataset
@@ -11,7 +11,7 @@ Results
 Contributing
 License
 Acknowledgments
-Features
+# Features
 State-of-the-Art Models: Utilizes transformers-based LLMs (e.g., BERT, RoBERTa) for text classification.
 Data-Driven Insights: Incorporates data preprocessing, feature extraction, and visualization to uncover patterns in the dataset.
 Custom Fine-Tuning: Fine-tunes pre-trained models for fake news detection using labeled datasets.
@@ -26,8 +26,7 @@ Jupyter Notebook
 Required Libraries
 Install dependencies via the requirements file:
 
-bash
-Copy code
+
 pip install -r requirements.txt
 If no requirements.txt is available, install the following manually:
 
